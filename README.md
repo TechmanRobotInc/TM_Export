@@ -16,7 +16,10 @@ To use the Import function: Click on the Import button at the top left, select t
 > Mouse-click to enter the page of __System &rArr; Import/Export__ in order.<br/>  
 > 1.Click Import on the top left, then select to apply the imported setting ``TMROS_EthSlave`` in the Robot List prompted and click OK.<br/>
 > 2.Click to select the project ``Ethernet Slave`` to import in the Import Project List prompted.<br/>
-> 3.Click to select the name ``Data_Table_Setting_TM_ROS_Default`` of the setting listed in Selected Files.<br/>
+> 3.Click to select the specified file``Data_Table_Setting_XXX_ROS_Default`` of the setting listed in Selected Files.
+> -  For the __TMflow__ Series, it needs to be used with the __Data_Table_Setting_TM_ROS_Default__ file.<br/>
+> -  For the __TMflow 2__ Series, it needs to be used with the __Data_Table_Setting_TM2_ROS_Default__ file.<br/>
+>
 > 4.Click Import at the bottom right to import the setting.<br/>
 >
 > ![Import_TMROS_EthSlave.png](figures/Import_TMROS_EthSlave.png)
@@ -25,7 +28,7 @@ To use the Import function: Click on the Import button at the top left, select t
 >
 > 1.On ``Ethernet Slave`` setting page, let Data Table Setting STATUS : Disable, then click ``Data Table Setting`` to enter the next page.<br/>
 > 2.On ``Receive/Send Data Table Setting`` setting page, click ``Open`` to select files of the setting listed in Transmit File List prompted.<br/>
-> 3.Select the file name ``Data_Table_Setting_TM_ROS_Default`` in the Transmit File List prompted and click OK.<br/>
+> 3.Select the specified file ``Data_Table_Setting_XXX_ROS_Default`` in the Transmit File List prompted and click OK.<br/>
 > 4.Return to ``Ethernet Slave`` setting page, enable the `Data Table Setting` item to STATUS : Enable.<br/>
 >
 > ![Import_TMROS_Data_Table_Setting.png](figures/Import_TMROS_Data_Table_Setting.png)
