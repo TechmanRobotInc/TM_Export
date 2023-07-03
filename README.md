@@ -18,7 +18,7 @@ To use the Import function: Click on the Import button at the top left, select t
 > 2.Click to select the project ``Ethernet Slave`` to import in the Import Project List prompted.<br/>
 > 3.Click to select the specified file``Data_Table_Setting_XXX_ROS_Default`` of the setting listed in Selected Files.
 > -  For the __TMflow__ Series, it needs to be used with the __Data_Table_Setting_TM_ROS_Default__ file.<br/>
-> -  For the __TMflow 2__ Series, it needs to be used with the __Data_Table_Setting_TM2_ROS_Default__ file.<br/>
+> -  For the __TMflow 2__ Series (+ __TM S-Series__ ), it needs to be used with the __Data_Table_Setting_TM2_ROS_Default__ file.<br/>
 >
 > 4.Click Import at the bottom right to import the setting.<br/>
 >
