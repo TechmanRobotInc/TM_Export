@@ -11,6 +11,7 @@ To use the Import function: Click on the Import button at the top left, select t
 ``git clone https://github.com/TechmanRobotInc/TM_Export.git``<br/>
 
     ![Usb_Label_Name_TMROBOT.png](figures/Usb_Label_Name_TMROBOT.png)
+
 ### &sect; Insert the USB flash drive into the Control Box
 
 > Mouse-click to enter the page of __System &rArr; Import/Export__ in order.<br/>  
@@ -23,6 +24,7 @@ To use the Import function: Click on the Import button at the top left, select t
 > 4. Click Import at the bottom right to import the setting.<br/>
 
     ![Import_TMROS_EthSlave.png](figures/Import_TMROS_EthSlave.png)
+
 ### &sect; Transmit the __Ethernet Slave Data Table__ TM ROS default settings
 > After importing, mouse-click to enter the page of __Setting &rArr; Connection &rArr; Ethernet Slave__ in order.<br/> 
 >
@@ -32,5 +34,6 @@ To use the Import function: Click on the Import button at the top left, select t
 > 4. Return to the ``Ethernet Slave`` setting page, and enable the `Data Table Setting` item to STATUS: Enable.<br/>
 
     ![Import_TMROS_Data_Table_Setting.png](figures/Import_TMROS_Data_Table_Setting.png)
+
 > You have completed the predefined TM ROS default project to receive/send specific data. 
 
