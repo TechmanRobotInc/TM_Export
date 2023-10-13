@@ -7,8 +7,8 @@ Insert the flash drive into the Techman Robot Control Box before using the funct
 To use the Import function: Click on the Import button at the top left, select the robot of the data source in the flash drive from the robot list, and then select the desired data from the Select file box. Click an item in this box to add the item to the Selected Files box. After completing the new addition, click Import at the bottom right to start the Import procedure.
 
 ### &sect; Update files from the git repository
-To download and unzip the update files, then place all the content generated from the unzipped files, or directly clone the TM driver of the git repository into the root directory of the USB flash drive labeled with __TMROBOT__ by typing<br/>
 ``git clone https://github.com/TechmanRobotInc/TM_Export.git``<br/>
+To download and unzip the update files, then place all the content generated from the unzipped files, or directly clone the TM driver of the git repository into the root directory of the USB flash drive labeled with __TMROBOT__ by typing<br/>
 
     ![Usb_Label_Name_TMROBOT.png](figures/Usb_Label_Name_TMROBOT.png)
 
