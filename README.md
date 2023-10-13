@@ -9,7 +9,7 @@ To use the Import function: Click on the Import button at the top left, select t
 ### &sect; Update files from the git repository
 To download and unzip the update files, then place all the content generated from the unzipped files, or directly clone the TM driver of the git repository into the root directory of the USB flash drive labeled with __TMROBOT__ by typing<br/>
 ``git clone https://github.com/TechmanRobotInc/TM_Export.git``<br/>
-
+<br/>
 <br/>
     ![Usb_Label_Name_TMROBOT.png](figures/Usb_Label_Name_TMROBOT.png)
 
