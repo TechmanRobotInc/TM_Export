@@ -9,6 +9,7 @@ To use the Import function: Click on the Import button at the top left, select t
 ### &sect; Update files from the git repository
 >To download and unzip the update files, then place all the content generated from the unzipped files, or directly clone the TM driver of the git repository into the root directory of the USB flash drive labeled with __TMROBOT__ by typing<br/>
 ``git clone https://github.com/TechmanRobotInc/TM_Export.git``<br/>
+<br/>
 
     ![Usb_Label_Name_TMROBOT.png](figures/Usb_Label_Name_TMROBOT.png)
 
@@ -22,6 +23,7 @@ To use the Import function: Click on the Import button at the top left, select t
 > -  For the __TMflow 2__ Series (+ __TM S-Series__ ), it needs to be used with the __Data_Table_Setting_TM2_ROS_Default__ file.<br/>
 >
 > 4. Click Import at the bottom right to import the setting.<br/>
+<br/>
 
     ![Import_TMROS_EthSlave.png](figures/Import_TMROS_EthSlave.png)
 
@@ -32,6 +34,7 @@ To use the Import function: Click on the Import button at the top left, select t
 > 2. On the ``Receive/Send Data Table Setting`` setting page, click ``Open`` to select files of the setting listed in Transmit File List prompted.<br/>
 > 3. Select the specified file ``Data_Table_Setting_XXX_ROS_Default`` in the Transmit File List prompted and click OK.<br/>
 > 4. Return to the ``Ethernet Slave`` setting page, and enable the `Data Table Setting` item to STATUS: Enable.<br/>
+<br/>
 
     ![Import_TMROS_Data_Table_Setting.png](figures/Import_TMROS_Data_Table_Setting.png)
 
